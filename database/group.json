@@ -1,0 +1,52 @@
+[
+	{
+		"from": "59172945992-1522279021@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363020453430540@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363036658420467@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "51938363748-1631912361@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363021453249940@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	}
+]
